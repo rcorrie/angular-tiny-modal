@@ -1,6 +1,6 @@
-#angular-tiny-modal
+#angular-tiny-modal (WIP)
 
-###(WIP) A lightweight interface for creating and managing modals in AngularJS applications
+###A lightweight interface for creating and managing modals in AngularJS applications
 
 **TODO**
 * ~~Base modal service~~
