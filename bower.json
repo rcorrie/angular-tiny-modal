@@ -1,0 +1,22 @@
+{
+  "name": "angular-tiny-modal",
+  "description": "Angular service for creating and using modals",
+  "main": "src/angular-tiny-modal.js",
+  "authors": [
+    "Ricardo Corrie <rc@rcorrie.com> (http://rcorrie.com)"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "https://github.com/rcorrie/angular-tiny-modal",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "angular-mocks": "~1.4.9"
+  }
+}
