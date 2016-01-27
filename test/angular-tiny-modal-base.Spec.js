@@ -1,7 +1,3 @@
-/**
- * Created by rcorrie Mon Dec 21 2015 17:40:29 GMT+0000 (UTC)
- */
-
 (function(){
 
   describe('Service: modalbase', function () {
